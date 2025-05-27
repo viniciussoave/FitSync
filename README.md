@@ -1,7 +1,5 @@
 # FitSync (Projeto de Estudo)  
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
-
 <div align="center">  
   <img src="docs/logo.png" alt="Logo FitSync" width="150">  
   <h3>Aplicação para gestão de treinos em academias</h3>  
