@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     Usuario <|-- Aluno
     Usuario <|-- Personal
@@ -70,3 +71,4 @@ classDiagram
     Exercicio "1" --> "*" TreinoExercicio : Pertence
     Aluno "1" --> "*" Progresso : Registra
     Exercicio "1" --> "*" Progresso : Possui
+```
