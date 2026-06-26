@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FitSync.API/FitSync.API.csproj" />
+  <Project Path="FitSync.Application/FitSync.Application.csproj" />
+  <Project Path="FitSync.Domain/FitSync.Domain.csproj" />
+  <Project Path="FitSync.Infrastructure/FitSync.Infrastructure.csproj" />
+</Solution>
